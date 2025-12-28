@@ -51,23 +51,23 @@ Predict which customers will churn based on their demographics, services, and ac
 2. **Customer Tenure:** New customers are highest risk  
 3. **Payment Method:** Electronic check users churn at higher rates
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Incentivize long-term contracts with discounts
 - Focus retention efforts on customers in first year
 - Bundle tech support with all plans
 - Encourage automatic payment methods
 
-## 👨‍💻 Author
+## Author
 
 Azada Imranzada
 
 ---
 
-⭐ If you found this helpful, please star the repository!
+If you found this helpful, please star the repository!
 ```
 
-20. **Save the file** in VS Code
+## **Save the file** in VS Code
 
 ---
 
